@@ -1,0 +1,49 @@
+$C = "../Common.ui";
+
+@SendButtonStyle = TextButtonStyle(
+    Default: (Background: #3a7bd5, LabelStyle: (FontSize: 16, TextColor: #ffffff, RenderBold: true, HorizontalAlignment: Center, VerticalAlignment: Center)),
+    Hovered: (Background: #4a8be5, LabelStyle: (FontSize: 16, TextColor: #ffffff, RenderBold: true, HorizontalAlignment: Center, VerticalAlignment: Center)),
+    Pressed: (Background: #2a6bc5, LabelStyle: (FontSize: 16, TextColor: #ffffff, RenderBold: true, HorizontalAlignment: Center, VerticalAlignment: Center))
+);
+
+Group {
+    Anchor: (Width: 450, Height: 350);
+    Background: #1a1a2e(0.95);
+    LayoutMode: Top;
+    Padding: (Full: 20);
+
+    Label #Title {
+        Text: "HyGPT - Kweebec Chat";
+        Anchor: (Height: 40);
+        Style: (FontSize: 20, TextColor: #ffffff, HorizontalAlignment: Center);
+    }
+
+    Group { Anchor: (Height: 10); }
+
+    Group #ChatArea {
+        Anchor: (Height: 180);
+        Background: #0d1117(0.98);
+        Padding: (Full: 15);
+
+        Label #ChatText {
+            Text: "Chat history will appear here...";
+            Anchor: (Height: 150);
+            Style: (FontSize: 14, TextColor: #cccccc);
+        }
+    }
+
+    Group { Anchor: (Height: 10); }
+
+    $C.@TextField #PromptInput {
+        Anchor: (Height: 40);
+        PlaceholderText: "Ask the Kweebec something...";
+    }
+
+    Group { Anchor: (Height: 10); }
+
+    TextButton #SendButton {
+        Anchor: (Height: 45);
+        Text: "Send";
+        Style: @SendButtonStyle;
+    }
+}

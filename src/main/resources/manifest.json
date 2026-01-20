@@ -1,0 +1,21 @@
+{
+  "Group": "com.megalos",
+  "Name": "HyGPT",
+  "Version": "1.0.0",
+  "Description": "Description",
+  "Authors": [
+    {
+      "Name": "Megalos",
+      "Email": "megalos780@gmail.com",
+      "Url": ""
+    }
+  ],
+  "Main": "com.megalos.HyGPT.HyGPTPlugin",
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true,
+  "SubPlugins": []
+}
