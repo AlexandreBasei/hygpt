@@ -1,0 +1,444 @@
+
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:29:
+  Text: "Entity Selection";
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:30:
+  Style: (
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:31:
+    FontSize: 18,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:32:
+    RenderBold: true,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:33:
+    TextColor: #bfcdd5,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:85:
+    Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:86:
+      TextColor: #e8f0f5(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:87:
+      FontSize: 12,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:88:
+      VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:89:
+    );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:100:
+       Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:101:
+         TextColor: #96a9be(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:102:
+         FontSize: 11,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:103:
+         VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:104:
+       );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:117:
+       Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:118:
+         TextColor: #e8f0f5(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:119:
+         FontSize: 12,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:120:
+         VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:121:
+       );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:132:
+       Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:133:
+         TextColor: #96a9be(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:134:
+         FontSize: 11,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:135:
+         VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:136:
+       );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:149:
+       Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:150:
+         TextColor: #e8f0f5(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:151:
+         FontSize: 12,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:152:
+         VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:153:
+       );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:165:
+       Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:166:
+         TextColor: #96a9be(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:167:
+         FontSize: 11,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:168:
+         VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:169:
+       );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:182:
+       Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:183:
+         TextColor: #e8f0f5(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:184:
+         FontSize: 12,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:185:
+         VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:186:
+       );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:198:
+       Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:199:
+         TextColor: #96a9be(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:200:
+         FontSize: 11,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:201:
+         VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:202:
+       );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:215:
+       Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:216:
+         TextColor: #e8f0f5(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:217:
+         FontSize: 12,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:218:
+         VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:219:
+       );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:243:
+         Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:244:
+           TextColor: #e8f0f5(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:245:
+           FontSize: 12,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:246:
+           VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:247:
+         );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:258:
+         Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:259:
+           TextColor: #96a9be(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:260:
+           FontSize: 11,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:261:
+           VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:262:
+         );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:292:
+ Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:293:
+   TextColor: #ffffff(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:294:
+   FontSize: 14
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:295:
+ );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:296:
+ Padding: (Bottom: 10);
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:307:
+   Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:308:
+     TextColor: #ffffff(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:309:
+     FontSize: 12
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:310:
+   );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:311:
+   Anchor: (Bottom: 5);
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:326:
+   Text: "NPC Information";
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:327:
+   Style: (
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:328:
+     FontSize: 18,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:329:
+     RenderBold: true,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:330:
+     TextColor: #bfcdd5,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:343:
+     Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:344:
+       TextColor: #ffffff(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:345:
+       FontSize: 12,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:346:
+       VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:347:
+     );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:364:
+     Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:365:
+       TextColor: #ffffff(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:366:
+       FontSize: 12,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:367:
+       VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:368:
+     );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:385:
+     Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:386:
+       TextColor: #ffffff(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:387:
+       FontSize: 12,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:388:
+       VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:389:
+     );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:407:
+     Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:408:
+       TextColor: #ffffff(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:409:
+       FontSize: 12,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:410:
+       VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:411:
+     );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:422:
+     Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:423:
+       TextColor: #aaaaaa(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:424:
+       FontSize: 11,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:425:
+       VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:426:
+     );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:439:
+     Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:440:
+       TextColor: #ffffff(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:441:
+       FontSize: 12,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:442:
+       VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:443:
+     );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:454:
+     Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:455:
+       TextColor: #aaaaaa(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:456:
+       FontSize: 11,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:457:
+       VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:458:
+     );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:472:
+   Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:473:
+     TextColor: #ffffff(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:474:
+     FontSize: 12
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:475:
+   );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:476:
+   Anchor: (Bottom: 5);
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:494:
+   Text: "Dialog Content";
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:495:
+   Style: (
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:496:
+     FontSize: 18,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:497:
+     RenderBold: true,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:498:
+     TextColor: #bfcdd5,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:507:
+   Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:508:
+     TextColor: #ffffff(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:509:
+     FontSize: 12
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:510:
+   );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:511:
+   PlaceholderStyle: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:512:
+     TextColor: #888888(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:513:
+     FontSize: 12
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:514:
+   );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:515:
+   Background: #2a2a2a(1);
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:539:
+       Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:540:
+         TextColor: #ffffff(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:541:
+         FontSize: 12,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:542:
+         VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:543:
+       );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:560:
+       Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:561:
+         TextColor: #ffffff(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:562:
+         FontSize: 12,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:563:
+         VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:564:
+       );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:580:
+       Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:581:
+         TextColor: #ffffff(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:582:
+         FontSize: 12,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:583:
+         VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:584:
+       );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:601:
+       Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:602:
+         TextColor: #ffffff(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:603:
+         FontSize: 12,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:604:
+         VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:605:
+       );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:622:
+       Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:623:
+         TextColor: #ffffff(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:624:
+         FontSize: 12,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:625:
+         VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:626:
+       );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:644:
+       Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:645:
+         TextColor: #ffffff(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:646:
+         FontSize: 12,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:647:
+         VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:648:
+       );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:665:
+       Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:666:
+         TextColor: #ffffff(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:667:
+         FontSize: 12,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:668:
+         VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:669:
+       );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:686:
+       Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:687:
+         TextColor: #ffffff(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:688:
+         FontSize: 12,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:689:
+         VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:690:
+       );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:708:
+       Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:709:
+         TextColor: #ffffff(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:710:
+         FontSize: 12,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:711:
+         VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:712:
+       );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:729:
+       Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:730:
+         TextColor: #ffffff(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:731:
+         FontSize: 12,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:732:
+         VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:733:
+       );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:750:
+       Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:751:
+         TextColor: #ffffff(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:752:
+         FontSize: 12,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:753:
+         VerticalAlignment: Center
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Admin.ui:754:
+       );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Dialog.ui:22:
+   Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Dialog.ui:23:
+     TextColor: #ffd700(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Dialog.ui:24:
+     FontSize: 18,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Dialog.ui:25:
+     RenderBold: true
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Dialog.ui:26:
+   );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Dialog.ui:42:
+   Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Dialog.ui:43:
+     TextColor: #ffffff(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Dialog.ui:44:
+     FontSize: 16,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Dialog.ui:45:
+     RenderBold: true
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Dialog.ui:46:
+   );
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Dialog.ui:61:
+   Style: (
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Dialog.ui:62:
+     TextColor: #ffffff(1),
+> libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Dialog.ui:63:
+     FontSize: 14,
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Dialog.ui:64:
+     Wrap: true
+  libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_Dialog.ui:65:
+   );
+
+libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_EntityEntry.ui:14:
+  Label #EntityName {
+
+libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_EntityEntry.ui:15:
+    Style: (
+>
+libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_EntityEntry.ui:16:
+      FontSize: 13,
+
+libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_EntityEntry.ui:17:
+      RenderBold: true,
+
+libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_EntityEntry.ui:18:
+      TextColor: #ffffff,
+
+libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_EntityEntry.ui:25:
+  Label #EntityType {
+
+libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_EntityEntry.ui:26:
+    Style: (
+>
+libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_EntityEntry.ui:27:
+      FontSize: 11,
+
+libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_EntityEntry.ui:28:
+      TextColor: #96a9be,
+
+libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_EntityEntry.ui:29:
+      VerticalAlignment: Center
+
+libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_EntityEntry.ui:41:
+  Label #NPCLinkStatus {
+
+libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_EntityEntry.ui:42:
+    Style: (
+>
+libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_EntityEntry.ui:43:
+      FontSize: 11,
+
+libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_EntityEntry.ui:44:
+      TextColor: #7f8c8d,
+
+libs\NPCDialog_decompiled\Common\UI\Custom\Pages\NPCDialog_EntityEntry.ui:45:
+      VerticalAlignment: Center

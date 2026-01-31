@@ -1,39 +1,42 @@
 $C = "../Common.ui";
 
-@SendButtonStyle = TextButtonStyle(
-    Default: (Background: #3a7bd5, LabelStyle: (FontSize: 16, TextColor: #ffffff, RenderBold: true, HorizontalAlignment: Center, VerticalAlignment: Center)),
-    Hovered: (Background: #4a8be5, LabelStyle: (FontSize: 16, TextColor: #ffffff, RenderBold: true, HorizontalAlignment: Center, VerticalAlignment: Center)),
-    Pressed: (Background: #2a6bc5, LabelStyle: (FontSize: 16, TextColor: #ffffff, RenderBold: true, HorizontalAlignment: Center, VerticalAlignment: Center))
-);
-
 Group {
-    Anchor: (Width: 450, Height: 350);
+    Anchor: (Width: 450, Height: 450);
     Background: #1a1a2e(0.95);
     LayoutMode: Top;
-    Padding: (Full: 20);
+    Padding: (Left: 20, Right: 20, Top: 20, Bottom: 20);
 
-    Label #Title {
-        Text: "HyGPT - Kweebec Chat";
+    // Title
+    Group {
         Anchor: (Height: 40);
-        Style: (FontSize: 20, TextColor: #ffffff, HorizontalAlignment: Center);
+        LayoutMode: Left;
+        Label { FlexWeight: 1; } // Spacer
+        Label #Title {
+            Text: "HyGPT - Kweebec Chat";
+            Style: (FontSize: 20, TextColor: #ffffff(1), RenderBold: true);
+        }
+        Label { FlexWeight: 1; } // Spacer
     }
 
     Group { Anchor: (Height: 10); }
 
+    // Chat History
     Group #ChatArea {
-        Anchor: (Height: 180);
+        FlexWeight: 1;
         Background: #0d1117(0.98);
-        Padding: (Full: 15);
+        Padding: (Left: 15, Right: 15, Top: 15, Bottom: 15);
+        LayoutMode: TopScrolling;
+        ScrollbarStyle: $C.@DefaultScrollbarStyle;
 
         Label #ChatText {
             Text: "Chat history will appear here...";
-            Anchor: (Height: 150);
-            Style: (FontSize: 14, TextColor: #cccccc);
+            Style: (FontSize: 14, TextColor: #cccccc(1), Wrap: true);
         }
     }
 
     Group { Anchor: (Height: 10); }
 
+    // Input
     $C.@TextField #PromptInput {
         Anchor: (Height: 40);
         PlaceholderText: "Ask the Kweebec something...";
@@ -41,9 +44,14 @@ Group {
 
     Group { Anchor: (Height: 10); }
 
+    // Send Button
     TextButton #SendButton {
         Anchor: (Height: 45);
         Text: "Send";
-        Style: @SendButtonStyle;
+        Style: (
+            Default: (Background: #3a7bd5(1), LabelStyle: (FontSize: 16, TextColor: #ffffff(1), RenderBold: true)),
+            Hovered: (Background: #4a8be5(1), LabelStyle: (FontSize: 16, TextColor: #ffffff(1), RenderBold: true)),
+            Pressed: (Background: #2a6bc5(1), LabelStyle: (FontSize: 16, TextColor: #ffffff(1), RenderBold: true))
+        );
     }
 }

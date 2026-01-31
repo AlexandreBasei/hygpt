@@ -20,7 +20,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class HyGPTPage extends InteractiveCustomUIPage<HyGPTPage.ChatBoxEventData> {
-    private final MistralAIService chatGPTService = new MistralAIService();
+    private final MistralAIService mistralAIService = new MistralAIService();
     private final List<String> chatLines = new ArrayList<>();
 
     /**
@@ -66,11 +66,14 @@ public class HyGPTPage extends InteractiveCustomUIPage<HyGPTPage.ChatBoxEventDat
     }
 
     private String buildChatText() {
-        // Garde les 10 derniers messages pour éviter le débordement
-        int start = Math.max(0, chatLines.size() - 10);
+
+        // Garde les 20 derniers messages
+        int start = Math.max(0, chatLines.size() - 20);
+
         StringBuilder sb = new StringBuilder();
+
         for (int i = start; i < chatLines.size(); i++) {
-            if (sb.length() > 0) sb.append("\n");
+            if (sb.length() > 0) sb.append("\n\n");
             sb.append(chatLines.get(i));
         }
         return sb.toString();
@@ -91,8 +94,8 @@ public class HyGPTPage extends InteractiveCustomUIPage<HyGPTPage.ChatBoxEventDat
         chatLines.add("[Kweebec] ...");
         refreshPage();
 
-        // Lance la requête
-        chatGPTService.ask(data.playerPrompt)
+        // Lance la requête à Mistral AI
+        mistralAIService.ask(data.playerPrompt)
                 .thenAccept(response -> {
                     // Remplace "..." par la vraie réponse
                     chatLines.set(chatLines.size() - 1, "[Kweebec] " + response);

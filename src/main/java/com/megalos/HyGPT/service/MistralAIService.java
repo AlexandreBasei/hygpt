@@ -45,16 +45,15 @@ public class MistralAIService {
                 .POST(HttpRequest.BodyPublishers.ofString(jsonBody))
                 .build();
 
-        // Retourne un CompletableFuture pour ne pas bloquer le serveur
+        // Retourne un CompletableFuture pour pas bloquer le serveur
         return httpClient.sendAsync(request, HttpResponse.BodyHandlers.ofString())
                 .thenApply(response -> parseResponse(response.body()));
     }
 
     private String parseResponse(String json) {
-        // Debug : affiche la réponse brute dans les logs
+        // affiche la réponse dans les logs
         System.out.println("[HyGPT] API Response: " + json);
-        
-        // Vérifie s'il y a une erreur
+
         if (json.contains("\"error\"")) {
             int msgStart = json.indexOf("\"message\":\"") + 11;
             int msgEnd = json.indexOf("\"", msgStart);
@@ -67,14 +66,14 @@ public class MistralAIService {
         // Cherche le contenu de la réponse de l'assistant
         // Format: "choices":[{"message":{"role":"assistant","content":"..."}}]
         String marker = "\"content\":\"";
-        int lastIndex = json.lastIndexOf(marker); // Prend le DERNIER content (celui de l'assistant)
+        int lastIndex = json.lastIndexOf(marker); // Prend le dernier content
         if (lastIndex == -1) {
             return "Parse error - no content found";
         }
         
         int contentStart = lastIndex + marker.length();
         
-        // Trouve la fin du content (guillemet non échappé)
+        // Trouve la fin du content
         int contentEnd = contentStart;
         while (contentEnd < json.length()) {
             char c = json.charAt(contentEnd);
