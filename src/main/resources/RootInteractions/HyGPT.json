@@ -1,0 +1,6 @@
+{
+  "$Comment": "RootInteraction for opening HyGPT UI when using NPCs",
+  "Interactions": [
+    "HyGPT_OpenUI"
+  ]
+}

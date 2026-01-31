@@ -1,0 +1,7 @@
+{
+  "$Comment": "Interaction for opening HyGPT UI",
+  "Type": "OpenCustomUI",
+  "Page": {
+    "Id": "HyGPT"
+  }
+}
